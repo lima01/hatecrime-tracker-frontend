@@ -3,6 +3,7 @@ import Image from 'next/image'
 import FeatureWithSide from "../components/FeatureWithSide"
 import Nav from "../components/Nav"
 import Footer from "../components/Footer"
+import Newsletter from "../components/Newsletter"
 export default function Home() {
   return (
     <div>
@@ -14,6 +15,7 @@ export default function Home() {
 
       <Nav></Nav>
       <FeatureWithSide></FeatureWithSide>
+      <Newsletter></Newsletter>
       <Footer></Footer>
 
     </div>
