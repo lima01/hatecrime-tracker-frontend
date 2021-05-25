@@ -2,6 +2,7 @@
 const navigation = [
     { name: 'News', href: '#' },
     { name: 'Map', href: '#' },
+    { name: 'Chart', href: '#' },
     { name: 'About', href: '#' },
 ]
 
