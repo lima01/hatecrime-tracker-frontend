@@ -13,7 +13,7 @@ export default function Nav() {
             <nav className="max-w-full  px-4 sm:px-6 lg:px-8" aria-label="Top">
                 <div className="hidden lg:block w-full py-6 flex items-center justify-between lg:border-none">
                     <div className="flex items-center">
-                        <a href="#">
+                        <a href="/">
                             <img
                                 className=" h-22 w-auto"
                                 src="/asiangirl.png"
