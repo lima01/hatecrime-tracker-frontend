@@ -1,8 +1,8 @@
 /* This example requires Tailwind CSS v2.0+ */
 const navigation = [
     { name: 'News', href: '#' },
-    { name: 'Map', href: '#' },
-    { name: 'Chart', href: '#' },
+    { name: 'Map', href: '/maps' },
+    { name: 'Chart', href: '/chart' },
     { name: 'About', href: '#' },
 ]
 

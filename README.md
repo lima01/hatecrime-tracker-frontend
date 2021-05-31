@@ -1,4 +1,12 @@
-First, run the development server:
+Install library
+
+```bash
+npm install
+# or
+yarn install
+```
+
+run the development server:
 
 ```bash
 npm run dev
